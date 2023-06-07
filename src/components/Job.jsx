@@ -40,7 +40,7 @@ const data = [
   {
     id: 4,
     image: Logo3,
-    title: "Tech Team Leader",
+    title: "Team Leader",
     time: "Now",
     location: "Bruxelles",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quasi asperiores eaque expedita ratione debitis.",
@@ -58,7 +58,7 @@ const data = [
   {
     id: 6,
     image: Logo5,
-    title: "Product Designer",
+    title: "Prod. Owner ",
     time: "Now",
     location: "Berlin",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quasi asperiores eaque expedita ratione debitis.",
@@ -76,7 +76,7 @@ const data = [
   {
     id: 8,
     image: Logo7,
-    title: "Tech Team Leader",
+    title: "Scrum Master",
     time: "10Hr",
     location: "London",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quasi asperiores eaque expedita ratione debitis.",
